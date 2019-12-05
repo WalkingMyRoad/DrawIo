@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-05T05:04:27.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hAGcl0pfHG8GxWCztAwO" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T07:57:43.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kG0mly6yBp58QjB9EKZY" version="12.3.6" type="github" pages="1">
   <diagram id="o1K-JnxiX_i7yvccke98" name="第 1 页">
-    <mxGraphModel dx="1174" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -10,15 +10,15 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-1" value="new Glucose data from bluetooth&lt;br&gt;(bytes)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-225" y="-1140" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-3" target="ntGJiRPB00802KpW2f3L-12">
+        <mxCell id="ntGJiRPB00802KpW2f3L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-3" target="ntGJiRPB00802KpW2f3L-12" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-14" value="attribute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ntGJiRPB00802KpW2f3L-13">
+        <mxCell id="ntGJiRPB00802KpW2f3L-14" value="attribute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="ntGJiRPB00802KpW2f3L-13" vertex="1" connectable="0">
           <mxGeometry x="0.175" y="-2" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-3" target="ntGJiRPB00802KpW2f3L-20">
+        <mxCell id="ntGJiRPB00802KpW2f3L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-3" target="ntGJiRPB00802KpW2f3L-20" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-3" value="analysis via SDK&lt;br&gt;glucose =&amp;nbsp; ProtocalToos.getGlucose(bytes)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
@@ -56,7 +56,7 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-32" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-29" target="Yor80Zz1ylZ34Q17yJMb-31" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-29" target="ntGJiRPB00802KpW2f3L-25">
+        <mxCell id="ntGJiRPB00802KpW2f3L-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-29" target="ntGJiRPB00802KpW2f3L-25" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-29" value="lastGlucose is abnormal?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-34" target="Yor80Zz1ylZ34Q17yJMb-39" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-34" target="ntGJiRPB00802KpW2f3L-18">
+        <mxCell id="ntGJiRPB00802KpW2f3L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-34" target="ntGJiRPB00802KpW2f3L-18" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-34" value="Calculation&lt;br&gt;AlgorithmTools.algorithmGlucose()" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
@@ -375,20 +375,14 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-152" value="Trend None" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-225" y="1805" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-166" value="&lt;font color=&quot;#ff3333&quot;&gt;Flat file step 50&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="495" y="850" width="100" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-167" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-275" y="640" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-167" value="&lt;font color=&quot;#ff3333&quot;&gt;Flat file step 51&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-285" y="640" width="100" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-169" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-115" y="860" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-169" value="&lt;font color=&quot;#ff3333&quot;&gt;Flat file step 52&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-125" y="860" width="100" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-170" value="&lt;font color=&quot;#ff3333&quot;&gt;Flat file step 43&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="700" width="100" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-171" value="&lt;font color=&quot;#ff3333&quot;&gt;Flat file stdp 70&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="395" y="2660" width="100" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-171" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="405" y="2660" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-173" target="Yor80Zz1ylZ34Q17yJMb-174" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -396,7 +390,7 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-173" value="deviceDatabase in APP database is bind&amp;nbsp; but disconnect" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="-1120" width="100" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-174" target="ntGJiRPB00802KpW2f3L-7">
+        <mxCell id="ntGJiRPB00802KpW2f3L-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-174" target="ntGJiRPB00802KpW2f3L-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-174" value="scan device via bluetooth" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
@@ -432,10 +426,10 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-180" value="device restart&lt;br&gt;(set unbind in app)&lt;br&gt;203" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="-250" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-189" value="&lt;font color=&quot;#ff3333&quot;&gt;Flat file step 34&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-250" width="100" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-189" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-250" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-193" target="ntGJiRPB00802KpW2f3L-1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-193" target="ntGJiRPB00802KpW2f3L-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-193" value="new BG input&lt;br&gt;mmol/L" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
@@ -456,7 +450,7 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-198" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-199" target="Yor80Zz1ylZ34Q17yJMb-201" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-199" target="ntGJiRPB00802KpW2f3L-31">
+        <mxCell id="ntGJiRPB00802KpW2f3L-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-199" target="ntGJiRPB00802KpW2f3L-31" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-199" value="Trend = rise_rapidly or&lt;br&gt;drop_rapidly or&lt;br&gt;None" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
@@ -471,64 +465,67 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-201" value="input" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-485" y="1805" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-202" value="&lt;font color=&quot;#ff3333&quot;&gt;Flat file step 46&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-585" y="2134" width="100" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-202" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-575" y="2134" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ntGJiRPB00802KpW2f3L-1" target="Yor80Zz1ylZ34Q17yJMb-201">
+        <mxCell id="ntGJiRPB00802KpW2f3L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ntGJiRPB00802KpW2f3L-1" target="Yor80Zz1ylZ34Q17yJMb-201" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ntGJiRPB00802KpW2f3L-2">
+        <mxCell id="ntGJiRPB00802KpW2f3L-5" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="ntGJiRPB00802KpW2f3L-2" vertex="1" connectable="0">
           <mxGeometry x="-0.2582" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-3" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ntGJiRPB00802KpW2f3L-1" target="Yor80Zz1ylZ34Q17yJMb-196">
+        <mxCell id="ntGJiRPB00802KpW2f3L-3" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ntGJiRPB00802KpW2f3L-1" target="Yor80Zz1ylZ34Q17yJMb-196" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-1" value="first BG?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-1" value="first BG?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-675" y="1650" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ntGJiRPB00802KpW2f3L-7" target="Yor80Zz1ylZ34Q17yJMb-176">
+        <mxCell id="ntGJiRPB00802KpW2f3L-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ntGJiRPB00802KpW2f3L-7" target="Yor80Zz1ylZ34Q17yJMb-176" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-7" value="device bytes from bluetooth" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-7" value="device bytes from bluetooth" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="330" y="-850" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-12" value="int id&lt;br&gt;int year&lt;br&gt;int month&lt;br&gt;int day&lt;br&gt;int hour&lt;br&gt;int minute&lt;br&gt;int Iw * 10&lt;br&gt;int Ib * 10&lt;br&gt;float electric" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-12" value="int id&lt;br&gt;int year&lt;br&gt;int month&lt;br&gt;int day&lt;br&gt;int hour&lt;br&gt;int minute&lt;br&gt;int Iw * 10&lt;br&gt;int Ib * 10&lt;br&gt;float electric" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="-435" y="-1010" width="50" height="140" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-16" value="&lt;font color=&quot;#ff3333&quot;&gt;Please make your own database to store every glucose&lt;br&gt;so you can find every glucose in your database&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-16" value="&lt;font color=&quot;#ff3333&quot;&gt;Please make your own database to store every glucose&lt;br&gt;so you can find every glucose in your database&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-535" y="-605" width="310" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-17" value="glucose" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-17" value="glucose" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-445" y="-1030" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-18" value="int index&amp;nbsp; -&amp;gt; newGlucose.glucoseId&amp;nbsp;&lt;br&gt;float Iw -&amp;gt; newGlucose.Iw&lt;br&gt;float Ib -&amp;gt; newGlucose.Ib&lt;br&gt;float T - &amp;gt; newGlucose.T&lt;br&gt;boolean isNewBG -&amp;gt; true: new Bg input, otherwise false.&lt;br&gt;int BGCount - &amp;gt; lastGlucose.BGCount&lt;br&gt;int BGICount -&amp;gt; lastGlucose.BGICount&lt;br&gt;int D -&amp;gt; lastGlucose.D&lt;br&gt;float BG (mmol/L) -&amp;gt; LatestNormalGlucose.BG&lt;br&gt;float NewBG (mmol/L) -&amp;gt; isNewBG? new BG(user input value):BG&lt;br&gt;float Iw2 -&amp;gt; LatestNormalGlucose.Iw2&lt;br&gt;float Ib2 -&amp;gt; LatestNormalGlucose.Ib2&lt;br&gt;float Iw3 -&amp;gt; LatestNormalGlucose.Iw3&lt;br&gt;float Ib3 -&amp;gt; LatestNormalGlucose.Ib3&lt;br&gt;float Iw4 -&amp;gt; LatestNormalGlucose.Iw4&lt;br&gt;float Ib4 -&amp;gt; LatestNormalGlucose.Ib4&lt;br&gt;float Iw5-&amp;gt; LatestNormalGlucose.Iw5&lt;br&gt;float Iw6 -&amp;gt; LatestNormalGlucose.Iw6&lt;br&gt;float Iw7 -&amp;gt; LatestNormalGlucose.Iw7&lt;br&gt;float T_LastRef -&amp;gt; LatestNormalGlucose.T_LastRef&lt;br&gt;float LastKBeforeNewBG -&amp;gt; LatestNormalGlucose.LastKBeforeNewBG&lt;br&gt;float K -&amp;gt; LatestNormalGlucose.K&lt;br&gt;float IbAvg -&amp;gt; AVG(Ib4) of Latest 480 normal glucose datas&lt;br&gt;float A -&amp;gt; LatestNormalGlucose.A&lt;br&gt;float K1 -&amp;gt; LatestNormalGlucose.K1&lt;br&gt;float K2 -&amp;gt; LatestNormalGlucose.K2&lt;br&gt;float K3 -&amp;gt; LatestNormalGlucose.K3&lt;br&gt;float lastGlu(mmol/L) -&amp;gt; LatestNormalGlucose.Glu_mm" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-18" value="int index&amp;nbsp; -&amp;gt; newGlucose.glucoseId&amp;nbsp;&lt;br&gt;float Iw -&amp;gt; newGlucose.Iw&lt;br&gt;float Ib -&amp;gt; newGlucose.Ib&lt;br&gt;float T - &amp;gt; newGlucose.T&lt;br&gt;boolean isNewBG -&amp;gt; true: new Bg input, otherwise false.&lt;br&gt;int BGCount - &amp;gt; lastGlucose.BGCount&lt;br&gt;int BGICount -&amp;gt; lastGlucose.BGICount&lt;br&gt;int D -&amp;gt; lastGlucose.D&lt;br&gt;float BG (mmol/L) -&amp;gt; LatestNormalGlucose.BG&lt;br&gt;float NewBG (mmol/L) -&amp;gt; isNewBG? new BG(user input value):BG&lt;br&gt;float Iw2 -&amp;gt; LatestNormalGlucose.Iw2&lt;br&gt;float Ib2 -&amp;gt; LatestNormalGlucose.Ib2&lt;br&gt;float Iw3 -&amp;gt; LatestNormalGlucose.Iw3&lt;br&gt;float Ib3 -&amp;gt; LatestNormalGlucose.Ib3&lt;br&gt;float Iw4 -&amp;gt; LatestNormalGlucose.Iw4&lt;br&gt;float Ib4 -&amp;gt; LatestNormalGlucose.Ib4&lt;br&gt;float Iw5-&amp;gt; LatestNormalGlucose.Iw5&lt;br&gt;float Iw6 -&amp;gt; LatestNormalGlucose.Iw6&lt;br&gt;float Iw7 -&amp;gt; LatestNormalGlucose.Iw7&lt;br&gt;float T_LastRef -&amp;gt; LatestNormalGlucose.T_LastRef&lt;br&gt;float LastKBeforeNewBG -&amp;gt; LatestNormalGlucose.LastKBeforeNewBG&lt;br&gt;float K -&amp;gt; LatestNormalGlucose.K&lt;br&gt;float IbAvg -&amp;gt; AVG(Ib4) of Latest 480 normal glucose datas&lt;br&gt;float A -&amp;gt; LatestNormalGlucose.A&lt;br&gt;float K1 -&amp;gt; LatestNormalGlucose.K1&lt;br&gt;float K2 -&amp;gt; LatestNormalGlucose.K2&lt;br&gt;float K3 -&amp;gt; LatestNormalGlucose.K3&lt;br&gt;float lastGlu(mmol/L) -&amp;gt; LatestNormalGlucose.Glu_mm" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="-740" y="-43.5" width="50" height="407" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-19" value="param" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-19" value="param" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-740" y="-63.5" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ntGJiRPB00802KpW2f3L-20" target="Yor80Zz1ylZ34Q17yJMb-26">
+        <mxCell id="ntGJiRPB00802KpW2f3L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ntGJiRPB00802KpW2f3L-20" target="Yor80Zz1ylZ34Q17yJMb-26" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-20" value="newGlucose (glucose transform)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-20" value="newGlucose (glucose transform)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-225" y="-820" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ntGJiRPB00802KpW2f3L-25" target="Yor80Zz1ylZ34Q17yJMb-34">
+        <mxCell id="ntGJiRPB00802KpW2f3L-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ntGJiRPB00802KpW2f3L-25" target="Yor80Zz1ylZ34Q17yJMb-34" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-25" value="LatestNormaGlucose = lastGlucose" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-25" value="LatestNormaGlucose = lastGlucose" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-15" y="-60" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-31" value="rise_rapidly&lt;br&gt;drop_rapidly&lt;br&gt;rise_steadily&lt;br&gt;drop_steadily&lt;br&gt;steady&lt;br&gt;None" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-31" value="rise_rapidly&lt;br&gt;drop_rapidly&lt;br&gt;rise_steadily&lt;br&gt;drop_steadily&lt;br&gt;steady&lt;br&gt;None" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="-810" y="1970" width="50" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-32" value="Trend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="ntGJiRPB00802KpW2f3L-32" value="Trend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-810" y="1950" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ntGJiRPB00802KpW2f3L-36" value="&lt;font color=&quot;#ff6666&quot;&gt;device states in datavase&lt;br&gt;Bind: Transmitter is paired with APP and&amp;nbsp;initialized&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#ff6666&quot;&gt;connect: transmittet and APP are connected via bluttooth&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-1165" width="320" height="50" as="geometry"/>
+        <mxCell id="ntGJiRPB00802KpW2f3L-36" value="&lt;font color=&quot;#ff6666&quot;&gt;device states in datavase&lt;br&gt;Bind: Transmitter is paired with APP and&amp;nbsp;initialized&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#ff6666&quot;&gt;connect: transmittet and APP are connected via bluttooth&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="-1169" width="320" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="naATI-xbnR_95ell6dBL-1" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1062.5" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
