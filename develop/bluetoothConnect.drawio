@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T03:45:24.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="UpNE1EXrfXB7RYC6l7AP" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T04:05:05.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vHbvkXe3liRIzL-qGJ3A" version="12.3.8" type="github" pages="1">
   <diagram id="o1K-JnxiX_i7yvccke98" name="第 1 页">
     <mxGraphModel dx="1717" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,14 +378,14 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-152" value="Trend None" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-225" y="1805" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-167" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="640" width="80" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-167" value="&lt;font color=&quot;#ff3333&quot;&gt;No. 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-255" y="640" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-169" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-115" y="860" width="80" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-169" value="&lt;font color=&quot;#ff3333&quot;&gt;No. 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-95" y="860" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-171" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="2660" width="80" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-171" value="&lt;font color=&quot;#ff3333&quot;&gt;No. 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="2660" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-173" target="Yor80Zz1ylZ34Q17yJMb-174" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -429,8 +429,8 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-180" value="device restart&lt;br&gt;(set unbind in app)&lt;br&gt;203" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="-250" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-189" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="-250" width="80" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-189" value="&lt;font color=&quot;#ff3333&quot;&gt;No. 3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="-250" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ntGJiRPB00802KpW2f3L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Yor80Zz1ylZ34Q17yJMb-193" target="ntGJiRPB00802KpW2f3L-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -468,8 +468,8 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-201" value="input" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-485" y="1805" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="Yor80Zz1ylZ34Q17yJMb-202" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-575" y="2134" width="80" height="20" as="geometry"/>
+        <mxCell id="Yor80Zz1ylZ34Q17yJMb-202" value="&lt;font color=&quot;#ff3333&quot;&gt;No. 6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-555" y="2134" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ntGJiRPB00802KpW2f3L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ntGJiRPB00802KpW2f3L-1" target="Yor80Zz1ylZ34Q17yJMb-201" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -527,8 +527,8 @@
         <mxCell id="ntGJiRPB00802KpW2f3L-36" value="&lt;font color=&quot;#ff6666&quot;&gt;device states in datavase&lt;br&gt;Bind: Transmitter is paired with APP and&amp;nbsp;initialized&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#ff6666&quot;&gt;connect: transmittet and APP are connected via bluttooth&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="-1169" width="320" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="naATI-xbnR_95ell6dBL-1" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-1062.5" width="80" height="20" as="geometry"/>
+        <mxCell id="naATI-xbnR_95ell6dBL-1" value="&lt;font color=&quot;#ff3333&quot;&gt;No. 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-1062.5" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
