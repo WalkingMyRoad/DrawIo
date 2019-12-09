@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-05T08:45:36.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="k5X6BmGhqkcri9SiBD7u" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T03:45:24.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="UpNE1EXrfXB7RYC6l7AP" version="12.3.8" type="github" pages="1">
   <diagram id="o1K-JnxiX_i7yvccke98" name="第 1 页">
-    <mxGraphModel dx="1695" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1717" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -360,6 +360,9 @@
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-136" value="AVG480/AVG1440&lt;br&gt;&amp;lt; 0.5 ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="295" y="2490" width="100" height="100" as="geometry"/>
         </mxCell>
+        <mxCell id="TrsC28eRcEQC_UbLMWVB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yor80Zz1ylZ34Q17yJMb-137" target="Yor80Zz1ylZ34Q17yJMb-152">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Yor80Zz1ylZ34Q17yJMb-137" value="Low Sensitivity&lt;br&gt;302" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="295" y="2660" width="100" height="100" as="geometry"/>
         </mxCell>
@@ -524,7 +527,7 @@
         <mxCell id="ntGJiRPB00802KpW2f3L-36" value="&lt;font color=&quot;#ff6666&quot;&gt;device states in datavase&lt;br&gt;Bind: Transmitter is paired with APP and&amp;nbsp;initialized&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#ff6666&quot;&gt;connect: transmittet and APP are connected via bluttooth&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="-1169" width="320" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="naATI-xbnR_95ell6dBL-1" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="naATI-xbnR_95ell6dBL-1" value="&lt;font color=&quot;#ff3333&quot;&gt;error code 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="-1062.5" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
